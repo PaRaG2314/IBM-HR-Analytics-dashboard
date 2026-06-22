@@ -103,9 +103,32 @@ The dashboard is built using the IBM HR Analytics Employee Attrition Dataset con
 
 ## Dashboard Preview
 
-### HR Analytics Dashboard
+### Complete Dashboard
+![IBM Dashboard](Images/IBM%20Dashboard.png)
 
-![Dashboard](Images/dashboard.png)
+### Average Age by Department and Job Role
+![Average Age by Department and Job Role](Images/Average%20Age%20by%20Department%20and%20Job%20Role.png)
+
+### Gender Distribution in the Company
+![Gender in the Company](Images/Gender%20in%20the%20Company.png)
+
+### Job Role and Gender Analysis
+![Job Role and Gender](Images/Job%20Role%20and%20Gender.png)
+
+### Total Employees by Education Field
+![Total Employees by Education Field](Images/Total%20Employees%20by%20Education%20Field.png)
+
+### Gender and Marital Status
+![Gender and Marital Status](Images/Gender%20and%20Marital%20Status.png)
+
+### Average Monthly Income
+![Average Monthly Income](Images/Average%20Monthly%20Income.png)
+
+### Total Employees by Job Role and Department
+![Total Employees by Job Role and Department](Images/Total%20employees%20by%20Job%20role%20and%20Department.png)
+
+### Total Companies Worked For
+![Total Companies Worked For](Images/Total%20Companies%20worked%20for.png)
 
 ---
 
